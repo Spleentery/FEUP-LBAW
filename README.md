@@ -30,14 +30,24 @@ php artisan db:seed
 # in another terminal
 php artisan serve
 
-# common error fix: kill the docker image if it is already running
-docker ps
-docker kill id
+
+
+# If any error occur, try the following:
 
 # download composer if not installed 
 composer install
 # or
 composer update
+
+
+# update service
+sudo service postgresql stop
+sudo update-rc.d postgresql disable
+
+# common error fix: kill the docker image if it is already running
+docker ps
+docker kill id
+
 
 
 # web app https://localhost:8000 
@@ -54,6 +64,10 @@ composer update
 * [PA: Product and Presentation](Docs/PA/pa.md)
 
 ***
+
+### Screenshots
+
+![about](Docs/screenshots/about.png)
 
 ### Team
 
