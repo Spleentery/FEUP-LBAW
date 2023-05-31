@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>lbaw22122:main commits</title>
+<link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commits/main?feed_token=eo5TYwty889dpywj9sGE&amp;format=atom" rel="self" type="application/atom+xml"/>
+<link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commits/main" rel="alternate" type="text/html"/>
+<id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commits/main</id>
+<updated>2023-01-03T05:32:42+00:00</updated>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e2feb271120e1a385d2e74c329a0e2d922e2a3d2</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e2feb271120e1a385d2e74c329a0e2d922e2a3d2"/>
+  <title>Merge branch 'db-constraints_on_comment' into 'main'</title>
+  <updated>2023-01-03T05:32:42+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9a231792c44eb878cfcf44bfb69f1e45?s=80&amp;d=identicon"/>
+  <author>
+    <name>David Burchakov</name>
+    <email>up202203777@fe.up.pt</email>
+  </author>
+  <summary type="html">
+Db constraints on comment
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/58" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!58" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8072" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="58" data-container="body" data-placement="top" title="Db constraints on comment" class="gfm gfm-merge_request"&gt;!58&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/9516428721a8b7bc5ce129c1a6b20746f35f3acb</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/9516428721a8b7bc5ce129c1a6b20746f35f3acb"/>
+  <title>small fix for advanced search filter</title>
+  <updated>2023-01-03T05:31:59+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/403c375446c8c1310332dfb3fe8a24281653de7a</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/403c375446c8c1310332dfb3fe8a24281653de7a"/>
+  <title>quiting from events fixed</title>
+  <updated>2023-01-03T05:28:38+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/98cc60bd78a907183df9858c6797ff6bce8157cb</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/98cc60bd78a907183df9858c6797ff6bce8157cb"/>
+  <title>Merge branch 'notification-message-refine' into 'main'</title>
+  <updated>2023-01-03T05:12:28+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9a231792c44eb878cfcf44bfb69f1e45?s=80&amp;d=identicon"/>
+  <author>
+    <name>David Burchakov</name>
+    <email>up202203777@fe.up.pt</email>
+  </author>
+  <summary type="html">
+event title added to notifications
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/57" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!57" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8071" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="57" data-container="body" data-placement="top" title="event title added to notifications" class="gfm gfm-merge_request"&gt;!57&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/c8f2b3f382b18033b8b1e87e143d99174580324e</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/c8f2b3f382b18033b8b1e87e143d99174580324e"/>
+  <title>event title added to notifications</title>
+  <updated>2023-01-03T05:11:52+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/268d49262bb1c4e989085a0b3a3032d91acd4fda</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/268d49262bb1c4e989085a0b3a3032d91acd4fda"/>
+  <title>Merge branch 'feature-change-password' into 'main'</title>
+  <updated>2023-01-03T04:43:06+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9a231792c44eb878cfcf44bfb69f1e45?s=80&amp;d=identicon"/>
+  <author>
+    <name>David Burchakov</name>
+    <email>up202203777@fe.up.pt</email>
+  </author>
+  <summary type="html">
+successful return message added
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/56" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!56" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8069" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="56" data-container="body" data-placement="top" title="successful return message added" class="gfm gfm-merge_request"&gt;!56&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/6a3ce055c494da6516409cb75f3a8b59ae38d28c</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/6a3ce055c494da6516409cb75f3a8b59ae38d28c"/>
+  <title>successful return message added</title>
+  <updated>2023-01-03T04:42:04+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/75a6f8acbb828abd39cfea26ba95a27d140d0020</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/75a6f8acbb828abd39cfea26ba95a27d140d0020"/>
+  <title>merge</title>
+  <updated>2023-01-03T04:04:45+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/963933b3b64bd24c49cc4cda5f9d0dbb579e2a69</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/963933b3b64bd24c49cc4cda5f9d0dbb579e2a69"/>
+  <title>merging</title>
+  <updated>2023-01-03T04:01:14+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/75e017a69048301b23a33385aa8716d25117ce13</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/75e017a69048301b23a33385aa8716d25117ce13"/>
+  <title>refactoring</title>
+  <updated>2023-01-03T03:55:57+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/d2dd85eb4cdf1caa8f2a9296d4076a021ba92564</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/d2dd85eb4cdf1caa8f2a9296d4076a021ba92564"/>
+  <title>change password started</title>
+  <updated>2023-01-03T03:23:56+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e8b94ba77f9c655b31bb9fc3e64b516559faef30</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e8b94ba77f9c655b31bb9fc3e64b516559faef30"/>
+  <title>Merge branch 'feature-change_password' into 'main'</title>
+  <updated>2023-01-03T01:22:38+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9a231792c44eb878cfcf44bfb69f1e45?s=80&amp;d=identicon"/>
+  <author>
+    <name>David Burchakov</name>
+    <email>up202203777@fe.up.pt</email>
+  </author>
+  <summary type="html">
+Feature change password
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/54" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!54" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8059" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="54" data-container="body" data-placement="top" title="Feature change password" class="gfm gfm-merge_request"&gt;!54&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/235486ffd60e9ddc5cc232242cdad0076bd5eac2</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/235486ffd60e9ddc5cc232242cdad0076bd5eac2"/>
+  <title>hotfix</title>
+  <updated>2023-01-03T01:19:32+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/d7c6cc89dd99e0b52be90edc9c112c7943dc8896</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/d7c6cc89dd99e0b52be90edc9c112c7943dc8896"/>
+  <title>fixed route</title>
+  <updated>2023-01-03T00:35:30+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/63533fae6904888da154b64ce5450b28b63d564a</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/63533fae6904888da154b64ce5450b28b63d564a"/>
+  <title>routs dont work</title>
+  <updated>2023-01-03T00:29:01+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/44c7bac007eb2478b6be89f65c5865b074e4c578</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/44c7bac007eb2478b6be89f65c5865b074e4c578"/>
+  <title>Merge branch 'adminFunctionality' into 'main'</title>
+  <updated>2023-01-03T00:09:02+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a108a1ae4969c92fdc93c8460c5cdcdf?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail Ermolaev</name>
+    <email>up202203498@fe.up.pt</email>
+  </author>
+  <summary type="html">
+some refactoring
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/53" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!53" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8051" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="53" data-container="body" data-placement="top" title="some refactoring" class="gfm gfm-merge_request"&gt;!53&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/29269350e0c437289a4ea9594c8ec6ec1d5f1ef0</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/29269350e0c437289a4ea9594c8ec6ec1d5f1ef0"/>
+  <title>some refactoring</title>
+  <updated>2023-01-03T00:08:28+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/6a11ee4ed3d7cf9bea669731ebfc93007f8aaf00</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/6a11ee4ed3d7cf9bea669731ebfc93007f8aaf00"/>
+  <title>Merge branch 'participating' into 'main'</title>
+  <updated>2023-01-03T00:00:25+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a108a1ae4969c92fdc93c8460c5cdcdf?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail Ermolaev</name>
+    <email>up202203498@fe.up.pt</email>
+  </author>
+  <summary type="html">
+Participating
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/52" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!52" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8048" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="52" data-container="body" data-placement="top" title="Participating" class="gfm gfm-merge_request"&gt;!52&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/61e84aa5eb8d4f6604d8979660e2d2b183735785</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/61e84aa5eb8d4f6604d8979660e2d2b183735785"/>
+  <title>refactoring</title>
+  <updated>2023-01-02T23:59:41+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/5d64db1c955c4a9655cc09230b849cc5bdfdd4cb</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/5d64db1c955c4a9655cc09230b849cc5bdfdd4cb"/>
+  <title>change status in events is implemented</title>
+  <updated>2023-01-02T23:52:30+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/954e1ac3a88d8344abf5edd44506e024e8555253</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/954e1ac3a88d8344abf5edd44506e024e8555253"/>
+  <title>Merge branch 'feature-search_relevant_events' into 'main'</title>
+  <updated>2023-01-02T23:45:12+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9a231792c44eb878cfcf44bfb69f1e45?s=80&amp;d=identicon"/>
+  <author>
+    <name>David Burchakov</name>
+    <email>up202203777@fe.up.pt</email>
+  </author>
+  <summary type="html">
+advanced search button finished: added css
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/51" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!51" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8045" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="51" data-container="body" data-placement="top" title="advanced search button finished: added css" class="gfm gfm-merge_request"&gt;!51&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/63a862b4a97ea744fcb58a48604040929a9ebe1b</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/63a862b4a97ea744fcb58a48604040929a9ebe1b"/>
+  <title>advanced search button finished: added css</title>
+  <updated>2023-01-02T23:43:23+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e7f76f5eee4ae9ab2c26049ee3cebd6a86cc3dcd</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e7f76f5eee4ae9ab2c26049ee3cebd6a86cc3dcd"/>
+  <title>changing roles of participants of the event</title>
+  <updated>2023-01-02T23:09:17+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e4998dca6d0e30ef0dea94f0c58046e3fe9ecc90</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/e4998dca6d0e30ef0dea94f0c58046e3fe9ecc90"/>
+  <title>Merge branch 'adminFunctionality' into 'main'</title>
+  <updated>2023-01-02T22:49:18+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a108a1ae4969c92fdc93c8460c5cdcdf?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail Ermolaev</name>
+    <email>up202203498@fe.up.pt</email>
+  </author>
+  <summary type="html">
+Admin functionality
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/50" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!50" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8038" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="50" data-container="body" data-placement="top" title="Admin functionality" class="gfm gfm-merge_request"&gt;!50&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/2f47d8cbe3923a7cfb8f5b65ab0ec66e71a566cc</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/2f47d8cbe3923a7cfb8f5b65ab0ec66e71a566cc"/>
+  <title>added search on users for admin</title>
+  <updated>2023-01-02T22:48:24+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/ded7ad319b7e230a0d7080976ffcd881be1d4037</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/ded7ad319b7e230a0d7080976ffcd881be1d4037"/>
+  <title>Merge remote-tracking branch 'refs/remotes/origin/main'</title>
+  <updated>2023-01-02T22:33:57+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/4129f9dbb197849667ffa27a77d936abc7f5bf2e</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/4129f9dbb197849667ffa27a77d936abc7f5bf2e"/>
+  <title>database small fixed: CASCADE added for deleting comments</title>
+  <updated>2023-01-02T22:33:22+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/7c9a0e801ee5479d7a0c9bbca9117384b51f5740</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/7c9a0e801ee5479d7a0c9bbca9117384b51f5740"/>
+  <title>user search</title>
+  <updated>2023-01-02T22:13:04+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/5cf4695864dc20e740db7f5d90ea6149569dac45</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/5cf4695864dc20e740db7f5d90ea6149569dac45"/>
+  <title>fixed notification for owners of private events</title>
+  <updated>2023-01-02T21:58:20+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/70a39696db342f56fe0e4f03e098d3de4b136593</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/70a39696db342f56fe0e4f03e098d3de4b136593"/>
+  <title>Merge branch 'main' of https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122</title>
+  <updated>2023-01-02T19:36:37+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/692629142da61074c771d19ce54302fa662b9a86</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/692629142da61074c771d19ce54302fa662b9a86"/>
+  <title>deleted useless code</title>
+  <updated>2023-01-02T19:36:27+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/9255c01f149cba4338d214cd10cf776cf3651dc9</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/9255c01f149cba4338d214cd10cf776cf3651dc9"/>
+  <title>Merge branch 'feature-advanced-search' into 'main'</title>
+  <updated>2023-01-02T19:35:19+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9a231792c44eb878cfcf44bfb69f1e45?s=80&amp;d=identicon"/>
+  <author>
+    <name>David Burchakov</name>
+    <email>up202203777@fe.up.pt</email>
+  </author>
+  <summary type="html">
+Feature advanced search
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/49" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!49" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8024" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="49" data-container="body" data-placement="top" title="Feature advanced search" class="gfm gfm-merge_request"&gt;!49&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/fc9b2d07d0a614d493c5e39c338eb658b6781081</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/fc9b2d07d0a614d493c5e39c338eb658b6781081"/>
+  <title>Merge branch 'main' into 'feature-advanced-search'</title>
+  <updated>2023-01-02T19:34:54+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9a231792c44eb878cfcf44bfb69f1e45?s=80&amp;d=identicon"/>
+  <author>
+    <name>David Burchakov</name>
+    <email>up202203777@fe.up.pt</email>
+  </author>
+  <summary type="html">
+# Conflicts:
+#   resources/views/pages/all_events.blade.php</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/f23df3d87da394544706fcbcdd91f5a1cf1d1151</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/f23df3d87da394544706fcbcdd91f5a1cf1d1151"/>
+  <title>advanced search works</title>
+  <updated>2023-01-02T19:33:45+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/8feca42d7e9c5da6bdb768d3b74fb3aa52e9bbb1</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/8feca42d7e9c5da6bdb768d3b74fb3aa52e9bbb1"/>
+  <title>dropdown added by mistake - deleted</title>
+  <updated>2023-01-02T19:17:15+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/0f3bc43effaf71fe5c50746bc07cde28c30d453a</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/0f3bc43effaf71fe5c50746bc07cde28c30d453a"/>
+  <title>search by date + private checkbox, return view undone</title>
+  <updated>2023-01-02T19:02:18+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/26c51a8a03700507fe0fdff7d1ad0e6af598ecb2</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/26c51a8a03700507fe0fdff7d1ad0e6af598ecb2"/>
+  <title>Merge branch 'polls' into 'main'</title>
+  <updated>2023-01-02T18:23:49+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a108a1ae4969c92fdc93c8460c5cdcdf?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail Ermolaev</name>
+    <email>up202203498@fe.up.pt</email>
+  </author>
+  <summary type="html">
+created polls
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/48" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!48" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="8017" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="48" data-container="body" data-placement="top" title="created polls" class="gfm gfm-merge_request"&gt;!48&lt;/a&gt;</summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/83a2573c926ab6c51a48e95aa5f783676aa63fd2</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/83a2573c926ab6c51a48e95aa5f783676aa63fd2"/>
+  <title>created polls</title>
+  <updated>2023-01-02T18:23:05+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/cc6da26484b07e9298f71badfe564e43?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail</name>
+    <email>ermol24@icloud.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/d47d781250a39ca57ef6feea55efcca983bb64a0</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/d47d781250a39ca57ef6feea55efcca983bb64a0"/>
+  <title>event id and user id information added to notifications</title>
+  <updated>2023-01-02T15:23:15+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/9568cb6025b8cd6485e4ede1c414aae1?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    <email>davidburchakov@gmail.com</email>
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/c080f4991731566548a9789a86c124ab82394b75</id>
+  <link href="https://git.fe.up.pt/lbaw/lbaw2223/lbaw22122/-/commit/c080f4991731566548a9789a86c124ab82394b75"/>
+  <title>Merge branch 'photo' into 'main'</title>
+  <updated>2023-01-02T02:05:25+00:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/a108a1ae4969c92fdc93c8460c5cdcdf?s=80&amp;d=identicon"/>
+  <author>
+    <name>Mikhail Ermolaev</name>
+    <email>up202203498@fe.up.pt</email>
+  </author>
+  <summary type="html">
+added photo size validation
+
+See merge request &lt;a href="/lbaw/lbaw2223/lbaw22122/-/merge_requests/47" data-reference-type="merge_request" data-original="lbaw/lbaw2223/lbaw22122!47" data-link="false" data-link-reference="false" data-project="2712" data-merge-request="7968" data-project-path="lbaw/lbaw2223/lbaw22122" data-iid="47" data-container="body" data-placement="top" title="added photo size validation" class="gfm gfm-merge_request"&gt;!47&lt;/a&gt;</summary>
+</entry>
+</feed>

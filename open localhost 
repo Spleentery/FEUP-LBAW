@@ -1,0 +1,19 @@
+sudo service postgresql stop
+sudo update-rc.d postgresql disable
+docker ps
+docker kill id
+
+
+docker-compose up
+
+
+
+composer install
+# or
+composer update
+
+# in another terminal
+php artisan serve
+
+# update database
+php artisan db:seed

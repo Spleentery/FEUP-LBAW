@@ -1,0 +1,14 @@
+docker login git.fe.up.pt:5050
+
+IMAGE_NAME=git.fe.up.pt:5050/lbaw/lbaw2223/lbaw22122
+
+./upload_image.sh
+
+docker rm /lbaw22122
+
+docker run -it -p 8000:80 --name=lbaw22122 -e DB_DATABASE="lbaw22122" -e DB_SCHEMA="lbaw22122" -e DB_USERNAME="lbaw22122" -e DB_PASSWORD="nOwpCGoR" git.fe.up.pt:5050/lbaw/lbaw2223/lbaw22122
+
+
+https://lbaw22122.lbaw.fe.up.pt
+
+nOwpCGoR

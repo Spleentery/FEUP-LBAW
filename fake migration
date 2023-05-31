@@ -1,0 +1,1 @@
+php artisan migrate --pretend --no-ansi > migrate.sql
