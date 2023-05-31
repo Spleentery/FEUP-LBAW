@@ -68,6 +68,10 @@ docker kill id
 ### Screenshots
 
 ![about](Docs/screenshots/about.png)
+![login](Docs/screenshots/login.png)
+![register](Docs/screenshots/register.png)
+![profile](Docs/screenshots/profile.png)
+![events](Docs/screenshots/events.png)
 
 ### Team
 
