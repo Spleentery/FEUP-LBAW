@@ -49,6 +49,8 @@ docker ps
 docker kill id
 
 
+# clear cache
+php artisan cache:clear
 
 # web app https://localhost:8000 
 # pgadmin database http://localhost:4321/
