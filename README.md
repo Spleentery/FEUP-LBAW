@@ -54,11 +54,24 @@ php artisan cache:clear
 
 # web app https://localhost:8000 
 # pgadmin database http://localhost:4321/
+~~~~
 
-
-# VScode - Clear Cache
+### Some relevant notes
+#### VScode - Clear Cache
+~~~~
 Open the Command Palette (Ctrl+Shift+P)
 Developer: Reload Window
+~~~~
+
+#### Laravel Notification
+~~~~
+How can I change the design of notification?
+
+First you need to publish the notification package’s resources 
+php artisan vendor:publish --tag=laravel-notifications
+php artisan vendor:publish --tag=laravel-mail
+
+The colors and style are controlled by the CSS file in resources/views/vendor/mail/html/themes/default.css
 ~~~~
 
 ### Components
