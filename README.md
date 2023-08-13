@@ -55,6 +55,10 @@ php artisan cache:clear
 # web app https://localhost:8000 
 # pgadmin database http://localhost:4321/
 
+
+# VScode - Clear Cache
+Open the Command Palette (Ctrl+Shift+P)
+Developer: Reload Window
 ~~~~
 
 ### Components
